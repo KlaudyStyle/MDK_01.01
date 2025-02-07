@@ -1,0 +1,15 @@
+D:\ИС-23\pr1\bin\Debug\net7.0\pr1.exe
+D:\ИС-23\pr1\bin\Debug\net7.0\pr1.deps.json
+D:\ИС-23\pr1\bin\Debug\net7.0\pr1.runtimeconfig.json
+D:\ИС-23\pr1\bin\Debug\net7.0\pr1.dll
+D:\ИС-23\pr1\bin\Debug\net7.0\pr1.pdb
+D:\ИС-23\pr1\obj\Debug\net7.0\pr1.csproj.AssemblyReference.cache
+D:\ИС-23\pr1\obj\Debug\net7.0\pr1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ИС-23\pr1\obj\Debug\net7.0\pr1.AssemblyInfoInputs.cache
+D:\ИС-23\pr1\obj\Debug\net7.0\pr1.AssemblyInfo.cs
+D:\ИС-23\pr1\obj\Debug\net7.0\pr1.csproj.CoreCompileInputs.cache
+D:\ИС-23\pr1\obj\Debug\net7.0\pr1.dll
+D:\ИС-23\pr1\obj\Debug\net7.0\refint\pr1.dll
+D:\ИС-23\pr1\obj\Debug\net7.0\pr1.pdb
+D:\ИС-23\pr1\obj\Debug\net7.0\pr1.genruntimeconfig.cache
+D:\ИС-23\pr1\obj\Debug\net7.0\ref\pr1.dll

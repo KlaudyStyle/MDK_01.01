@@ -1,0 +1,7 @@
+C:\Users\Klaudy\Desktop\Новая папка (5)\pr3\bin\Debug\pr3.exe.config
+C:\Users\Klaudy\Desktop\Новая папка (5)\pr3\bin\Debug\pr3.exe
+C:\Users\Klaudy\Desktop\Новая папка (5)\pr3\bin\Debug\pr3.pdb
+C:\Users\Klaudy\Desktop\Новая папка (5)\pr3\obj\Debug\pr3.csproj.AssemblyReference.cache
+C:\Users\Klaudy\Desktop\Новая папка (5)\pr3\obj\Debug\pr3.csproj.CoreCompileInputs.cache
+C:\Users\Klaudy\Desktop\Новая папка (5)\pr3\obj\Debug\pr3.exe
+C:\Users\Klaudy\Desktop\Новая папка (5)\pr3\obj\Debug\pr3.pdb

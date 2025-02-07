@@ -1,0 +1,15 @@
+D:\ИС-23\Волков Плотникова\pr2\pr2\bin\Debug\pr2.exe.config
+D:\ИС-23\Волков Плотникова\pr2\pr2\bin\Debug\pr2.exe
+D:\ИС-23\Волков Плотникова\pr2\pr2\bin\Debug\pr2.pdb
+D:\ИС-23\Волков Плотникова\pr2\pr2\obj\Debug\pr2.csproj.AssemblyReference.cache
+D:\ИС-23\Волков Плотникова\pr2\pr2\obj\Debug\pr2.csproj.SuggestedBindingRedirects.cache
+D:\ИС-23\Волков Плотникова\pr2\pr2\obj\Debug\pr2.csproj.CoreCompileInputs.cache
+D:\ИС-23\Волков Плотникова\pr2\pr2\obj\Debug\pr2.exe
+D:\ИС-23\Волков Плотникова\pr2\pr2\obj\Debug\pr2.pdb
+C:\Users\Klaudy\Desktop\Новая папка (5)\pr2\pr2\bin\Debug\pr2.exe.config
+C:\Users\Klaudy\Desktop\Новая папка (5)\pr2\pr2\bin\Debug\pr2.exe
+C:\Users\Klaudy\Desktop\Новая папка (5)\pr2\pr2\bin\Debug\pr2.pdb
+C:\Users\Klaudy\Desktop\Новая папка (5)\pr2\pr2\obj\Debug\pr2.csproj.AssemblyReference.cache
+C:\Users\Klaudy\Desktop\Новая папка (5)\pr2\pr2\obj\Debug\pr2.csproj.CoreCompileInputs.cache
+C:\Users\Klaudy\Desktop\Новая папка (5)\pr2\pr2\obj\Debug\pr2.exe
+C:\Users\Klaudy\Desktop\Новая папка (5)\pr2\pr2\obj\Debug\pr2.pdb

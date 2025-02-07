@@ -1,0 +1,8 @@
+D:\ИС-23\Волков Плотникова\pr4\bin\Debug\pr4.exe.config
+D:\ИС-23\Волков Плотникова\pr4\bin\Debug\pr4.exe
+D:\ИС-23\Волков Плотникова\pr4\bin\Debug\pr4.pdb
+D:\ИС-23\Волков Плотникова\pr4\obj\Debug\pr4.csproj.AssemblyReference.cache
+D:\ИС-23\Волков Плотникова\pr4\obj\Debug\pr4.csproj.SuggestedBindingRedirects.cache
+D:\ИС-23\Волков Плотникова\pr4\obj\Debug\pr4.csproj.CoreCompileInputs.cache
+D:\ИС-23\Волков Плотникова\pr4\obj\Debug\pr4.exe
+D:\ИС-23\Волков Плотникова\pr4\obj\Debug\pr4.pdb

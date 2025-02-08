@@ -1,0 +1,8 @@
+D:\ИС-23\Волков Плотникова\pr5\bin\Debug\pr5.exe.config
+D:\ИС-23\Волков Плотникова\pr5\bin\Debug\pr5.exe
+D:\ИС-23\Волков Плотникова\pr5\bin\Debug\pr5.pdb
+D:\ИС-23\Волков Плотникова\pr5\obj\Debug\pr5.csproj.AssemblyReference.cache
+D:\ИС-23\Волков Плотникова\pr5\obj\Debug\pr5.csproj.SuggestedBindingRedirects.cache
+D:\ИС-23\Волков Плотникова\pr5\obj\Debug\pr5.csproj.CoreCompileInputs.cache
+D:\ИС-23\Волков Плотникова\pr5\obj\Debug\pr5.exe
+D:\ИС-23\Волков Плотникова\pr5\obj\Debug\pr5.pdb
